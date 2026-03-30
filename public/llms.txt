@@ -1,0 +1,83 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את הדרך המהירה ביותר לחופש כלכלי דרך נדל&quot;ן. קורסים בנדל&quot;ן בהובלת המומחה אלעד פורטל — הצטרף לאלפי בוגרים מצליחים והתחל את המסע שלך היום.
+
+### אודות
+https://example.com/about
+אלעד פורטל — המוח הפיננסי שהוביל מאות משקיעים לעצמאות כלכלית. גלה את הסיפור, הניסיון והמתודולוגיה הייחודית שהפכו את האקדמיה למובילה בישראל בהשקעות נדל&quot;ן.
+
+### תוכניות
+https://example.com/programs
+מקורס נדל&quot;ן למתחילים ועד אסטרטגיות השקעה מתקדמות — בחר את התוכנית שתקפיץ אותך קדימה. למידה מעשית, ליווי אישי ותוצאות אמיתיות שמדברות בעד עצמן. הירשם עכשיו.
+
+### סיפורי הצלחה
+https://example.com/success-stories
+עשרות בוגרים שהגיעו ללא ניסיון ויצאו עם עסקאות נדל&quot;ן אמיתיות וחופש כלכלי. קרא את סיפורי ההצלחה המרגשים של תלמידי האקדמיה וגלה מה אפשרי גם עבורך.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על קורס נדל&quot;ן למתחילים או על תוכניות ההשקעה שלנו? הצוות המקצועי של האקדמיה כאן בשבילך. צור קשר עכשיו ותקבל ייעוץ אישי ללא עלות — כי ההצלחה שלך מתחילה בשיחה אחת.
+
+### Products
+https://example.com/products
+המוצרים שלנו - אקדמיה לנדל"ן ופיננסים
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - אקדמיה לנדל"ן ופיננסים
+
+### Category
+https://example.com/category/:slug
+מוצרים - אקדמיה לנדל"ן ופיננסים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
